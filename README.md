@@ -1,1 +1,0 @@
-# david.tjomslandphotography.github.io
