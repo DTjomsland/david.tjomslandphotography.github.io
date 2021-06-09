@@ -266,7 +266,7 @@ a:hover {
 }
 
 .quokka {
-  display: flex;
+  position: relative;
   background-image: url(../images/quokka-desktopfinal.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -277,10 +277,10 @@ a:hover {
 
 .fullName {
   font-family: mySecondFont;
-  font-size: 5vw;
   position: absolute;
+  font-size: 5vw;
   bottom: 0;
-  margin-bottom: 50px;
+  left: 0;
   color: white;
   margin-left: 10px;
 }
@@ -291,10 +291,8 @@ a:hover {
   }
 }
 
-@media screen and (max-width: 400px) {
-  .quokka {
-    height: 500px;
-  }
+@media screen and (max-width: 600px) {
+  
 }
   
   
