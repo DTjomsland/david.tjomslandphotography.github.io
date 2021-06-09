@@ -290,6 +290,12 @@ a:hover {
     font-size: 40px;
   }
 }
+
+@media screen and (max-width: 400px) {
+  .quokka {
+    height: 500px;
+  }
+}
   
   
 
