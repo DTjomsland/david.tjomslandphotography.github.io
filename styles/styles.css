@@ -279,7 +279,7 @@ a:hover {
   font-family: mySecondFont;
   font-size: 5vw;
   position: absolute;
-  align-self: flex-end;
+  bottom: 0;
   color: white;
   margin-left: 10px;
 }
