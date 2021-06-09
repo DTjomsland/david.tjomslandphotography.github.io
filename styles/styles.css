@@ -423,7 +423,7 @@ a:hover {
 
 @media screen and (max-width: 768px) {
   .contactContainer {
-    background-image: url(../images/backalley-mobile.jpg);
+    background-image: url(../images/backstreet-mobile.png);
     background-position: center;
   }
 }
