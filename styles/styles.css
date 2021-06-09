@@ -150,7 +150,7 @@ a:hover {
   .nav-menu {
     position: fixed;
     left: -100%;
-    top: 8rem;
+    top: 0;
     flex-direction: column;
     background-color: #fff;
     width: 75vw;
