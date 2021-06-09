@@ -95,7 +95,7 @@ main {
   background-color: rgba(220, 189, 166, 0.8);
 } 
 
-.gallery:hover .overlay {
+.gallery:hover .overlay, .gallery:active .overlay {
   opacity: 1;
 }
 
