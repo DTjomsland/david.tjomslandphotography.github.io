@@ -280,6 +280,7 @@ a:hover {
   font-size: 5vw;
   position: absolute;
   bottom: 0;
+  margin-bottom: 50px;
   color: white;
   margin-left: 10px;
 }
